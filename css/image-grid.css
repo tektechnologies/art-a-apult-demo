@@ -20,8 +20,10 @@ li {
   font-size: 4rem;
   position: relative; }
 
+
+  /* edit this for the outline color */
 li:focus {
-  border: 10px solid blue; }
+  border: 10px solid rgb(167, 167, 189); }
 
 span {
   position: absolute;
